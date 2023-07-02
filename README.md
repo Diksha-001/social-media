@@ -1,6 +1,6 @@
 # social-media
 #snapshot of the project :
-![Screenshot (310)](https://github.com/Diksha-001/social-media/assets/114089823/60afe596-0d37-40a1-9bcf-6b4a84394c7f)
-![Screenshot (311)](https://github.com/Diksha-001/social-media/assets/114089823/10c34a6d-f05d-4287-b329-23ca5e4cff58)
-![Screenshot (312)](https://github.com/Diksha-001/social-media/assets/114089823/0ccced0e-5956-4347-8cea-625d9fb7a6cf)
-![Screenshot (313)](https://github.com/Diksha-001/social-media/assets/114089823/c01c19c4-e74e-4231-be1f-6119177898da)
+![Screenshot (311)](https://github.com/Diksha-001/social-media/assets/114089823/a5aa9188-b6f7-4c39-8877-1f2eebb2715f)
+![Screenshot (310)](https://github.com/Diksha-001/social-media/assets/114089823/e27930d6-2831-4e10-936f-cd368d778a5a)
+![Screenshot (312)](https://github.com/Diksha-001/social-media/assets/114089823/33580a27-7a8e-456b-98e0-b87c5a455dce)
+![Screenshot (313)](https://github.com/Diksha-001/social-media/assets/114089823/a78af72b-612a-46f9-977d-718b5f4474f9)
